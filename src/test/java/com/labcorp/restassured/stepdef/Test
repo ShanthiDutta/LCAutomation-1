@@ -1,0 +1,12 @@
+[ 
+              { 
+                id:43433, 
+                username:sdutta, 
+                firstName:san, 
+                lastName: ven, 
+                email: we@gmail.com, 
+                password: 23dwewe, 
+                phone: 2324433, 
+                userStatus: 0 
+              } 
+            ]
